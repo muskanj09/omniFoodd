@@ -12,6 +12,9 @@ html{
     text-rendering: optimizeLegibility;
 /*    scroll-behavior: smooth;*/
 }
+body{
+    overflow-x: hidden;
+}
 .row{
     max-width: 1140px;
     margin: 0 auto;
